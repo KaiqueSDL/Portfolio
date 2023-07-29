@@ -1,0 +1,29 @@
+#header{
+    background-color: #1b1a17;
+    color: #f3ece0;
+    padding: 20px;
+}
+.content-header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+span{
+    margin: 0 0 0 0.3rem;
+    color:#F46308;
+}
+#side2{
+    display: flex;
+    justify-content: space-between !important;
+    flex-wrap: wrap;
+    
+    margin: 0.2rem 0 0 0.2rem
+}
+#side2 ul a{
+    text-decoration: none;
+    color: #f3ece0;
+}
+#side2 ul a:hover{
+    color: #F46308;
+    transition: 0.5s ease-in;
+}
